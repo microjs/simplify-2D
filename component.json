@@ -2,7 +2,7 @@
   "name": "simplify-2D",
   "repo": "microjs/simplify-2D",
   "description": "simplify-2D is a high-performance JavaScript 2D polyline simplification library",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {
     "microjs/simplify-base": "*"

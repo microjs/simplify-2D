@@ -1,6 +1,6 @@
 {
-  "name": "simplify-2D",
-  "version": "0.0.0",
+  "name": "simplify-2d",
+  "version": "1.0.0",
   "description": "simplify-2D is a high-performance JavaScript 2D polyline simplification library",
   "main": "index.js",
   "scripts": {
