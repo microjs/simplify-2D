@@ -4,6 +4,8 @@
 
   simplify-2D is a high-performance JavaScript 2D polyline simplification library
 
+  If you need a 3D simplification library, check out [microjs/simplify-3D](https://github.com/microjs/simplify-3D).
+
 ## Installation
 
     $ component install microjs/simplify-2D
