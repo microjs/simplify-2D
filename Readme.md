@@ -1,5 +1,4 @@
 [![Build Status](https://secure.travis-ci.org/microjs/simplify-2D.png?branch=master)](https://travis-ci.org/microjs/simplify-2D)
-
 # simplify-2D
 
   simplify-2D is a high-performance JavaScript 2D polyline simplification library
