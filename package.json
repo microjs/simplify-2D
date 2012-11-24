@@ -1,0 +1,23 @@
+{
+  "name": "simplify-2D",
+  "version": "0.0.0",
+  "description": "simplify-2D is a high-performance JavaScript 2D polyline simplification library",
+  "main": "index.js",
+  "scripts": {
+    "test": "component-install && component-build -s b && mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microjs/simplify-2D.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "simplify-base": "*"
+  },
+  "devDependencies": {
+    "mocha": "~1.7.1",
+    "expect": "0.0.2",
+    "expect.js": "~0.2.0"
+  }
+}
