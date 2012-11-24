@@ -7,6 +7,8 @@
 ## Installation
 
     $ component install microjs/simplify-2D
+    
+    $ npm install simplify-2d
 
 ## API
 
