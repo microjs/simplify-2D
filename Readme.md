@@ -1,3 +1,4 @@
+[![Build Status](https://secure.travis-ci.org/microjs/simplify-2D.png?branch=master)](https://travis-ci.org/microjs/simplify-2D)
 
 # simplify-2D
 
@@ -10,6 +11,7 @@
 ## API
 
   ```javascript
+  var simplify = require('simplify-2D');
   simplify(points, tolerance, highQuality)
   ```
 
